@@ -1,0 +1,23 @@
+.superInput {
+    border: 1px solid #808080;
+    background: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.superInput:focus {
+    outline: none;
+}
+
+.errorInput {
+    border: 1px solid #ff0000;
+    background: #fff;
+    padding: 5px 10px;
+}
+
+.error {
+    color: #ff0000;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
