@@ -1,0 +1,19 @@
+.navList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.navItem {
+  margin: 0 10px;
+}
+
+.navLink {
+  color: #20b3ab;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    color: #198b85;
+  }
+}
